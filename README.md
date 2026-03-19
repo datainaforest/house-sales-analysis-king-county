@@ -117,32 +117,10 @@ The analysis was divided into three main sections:
 
 ---
 
-## 📈 Dashboard Pages
+## 🔗 Live Dashboard
 
-The Tableau dashboard was structured into three pages:
-
-### 🟫 Market Overview
-Provides a high-level summary of the housing market:
-- total sales
-- median price
-- average price
-- revenue by month and year
-- price distribution
-
-### 🟫 Property Characteristics
-Focuses on relationships between house attributes and prices:
-- avg price vs bedrooms
-- price vs bathrooms
-- price vs grade
-- price vs sqft living
-- condition vs avg price
-
-### 🟫 Location Analysis
-Shows how pricing differs by location:
-- map of properties
-- avg price by zipcode
-- avg price per sqft by zipcode
-- top 10 most expensive areas
+You can explore the interactive Tableau dashboard here:  
+[House Sales Analysis in King County, USA](https://public.tableau.com/app/profile/datainaforest/viz/housesales_17739236507530/LocationAnalysis)
 
 ---
 
